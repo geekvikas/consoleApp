@@ -1,0 +1,26 @@
+{
+  "name": "consoleapp",
+  "version": "1.0.0",
+  "description": "Console Application in NodeJS",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekvikas/consoleApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekvikas/consoleApp/issues"
+  },
+  "homepage": "https://github.com/geekvikas/consoleApp#readme"
+}
