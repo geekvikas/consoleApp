@@ -1,7 +1,7 @@
 {
-  "name": "consoleapp",
+  "name": "tic-tac-toe",
   "version": "1.0.0",
-  "description": "Console Application in NodeJS",
+  "description": "Tic-Tac-Toe game in NodeJS",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geekvikas/consoleApp.git"
+    "url": "git+https://github.com/geekvikas/tic-tac-toe.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/geekvikas/consoleApp/issues"
+    "url": "https://github.com/geekvikas/tic-tac-toe/issues"
   },
-  "homepage": "https://github.com/geekvikas/consoleApp#readme"
+  "homepage": "https://github.com/geekvikas/tic-tac-toe#readme"
 }
